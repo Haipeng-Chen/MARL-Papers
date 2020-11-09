@@ -29,6 +29,8 @@ The sharing principle of these references here is for research. If any authors d
 * [Multiagent systems: Algorithmic, game-theoretic, and logical foundations](http://www.masfoundations.org/download.html) by Shoham Y, Leyton-Brown K. Cambridge University Press, 2008.
 
 ## Review Papers
+* [Deep reinforcement learning for multiagent systems: A review of challenges, solutions, and applications.] Thanh Thi Nguyen, Ngoc Duy Nguyen, and Saeid Nahavandi. IEEE transactions on cybernetics (2020). [hp]
+* [A survey and critique of multiagent deep reinforcement learning] (https://arxiv.org/pdf/1810.05587.pdf) by Pablo Hernandez-Leal, Bilal Kartal, Matthew E. Taylor. 2019. [hp]
 * [Multi-Agent Reinforcement Learning: A Selective Overview of Theories and Algorithms](https://arxiv.org/pdf/1911.10635.pdf) by Kaiqing Zhang, Zhuoran Yang, Tamer Başar. 2019.
 * [A Survey on Transfer Learning for Multiagent Reinforcement Learning Systems](https://www.jair.org/index.php/jair/article/view/11396) by Silva, Felipe Leno da; Costa, Anna Helena Reali. JAIR, 2019.
 * [Autonomously Reusing Knowledge in Multiagent Reinforcement Learning](https://www.ijcai.org/proceedings/2018/774) by Silva, Felipe Leno da; Taylor, Matthew E.; Costa, Anna Helena Reali. IJCAI, 2018.
@@ -146,6 +148,9 @@ The sharing principle of these references here is for research. If any authors d
 
 
 ### Application
+* [Dota 2 with large scale deep reinforcement learning.] Christopher Berner, Greg Brockman, Brooke Chan, Vicki Cheung, Przemysław
+Dębiak, Christy Dennison, David Farhi, Quirin Fischer, Shariq Hashme, Chris Hesse, et al. 2019. [hp]
+*  [Grandmaster level in StarCraft II using multi-agent reinforcement learning.] By Oriol Vinyals, Igor Babuschkin, Wojciech M Czarnecki, Michaël Mathieu, Andrew Dudzik, Junyoung Chung, David H Choi, Richard Powell, Timo Ewalds, Petko Georgiev, et al. 2019. Nature 575, 7782 (2019), 350–354. [hp]
 * [MAgent: A Many-Agent Reinforcement Learning Platform for Artificial Collective Intelligence](https://arxiv.org/pdf/1712.00600.pdf) by Zheng L et al. NIPS 2017 & AAAI 2018 Demo. ([Github Page](https://github.com/geek-ai/MAgent))
 * [Collaborative Deep Reinforcement Learning for Joint Object Search](https://arxiv.org/pdf/1702.05573.pdf) by Kong X, Xin B, Wang Y, et al. arXiv, 2017.
 * [Multi-Agent Stochastic Simulation of Occupants for Building Simulation](http://www.ibpsa.org/proceedings/BS2017/BS2017_051.pdf) by Chapman J, Siebers P, Darren R. Building Simulation, 2017.
